@@ -5,3 +5,4 @@ Python Program created by Sarva Dubey that can(Only for Windows) :
 
 
 To run this file, extract the zip folder and run the main.py file. 
+Requires python 3.13 along with os module
